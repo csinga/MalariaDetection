@@ -1,4 +1,4 @@
-# Malaria Detection
+# Malaria Detection based on the domain - Deep Learning
 
 ## Problem Definition
 
